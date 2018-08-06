@@ -5,6 +5,40 @@
             "cards": [
                 {
                     "active": true, 
+                    "cardid": "62b84902-95ec-11e8-86d3-acde48001122", 
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
+                    "config": null, 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "helpenabled": false, 
+                    "helptext": null, 
+                    "helptitle": null, 
+                    "instructions": null, 
+                    "is_editable": true, 
+                    "name": "referenced node", 
+                    "nodegroup_id": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "sortorder": null, 
+                    "visible": true
+                }, 
+                {
+                    "active": true, 
+                    "cardid": "de301d4a-95c3-11e8-b74b-acde48001122", 
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
+                    "config": null, 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "helpenabled": false, 
+                    "helptext": null, 
+                    "helptitle": null, 
+                    "instructions": null, 
+                    "is_editable": true, 
+                    "name": "Images-Files", 
+                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "sortorder": null, 
+                    "visible": true
+                }, 
+                {
+                    "active": true, 
                     "cardid": "c1bd336b-95bd-11e8-98d6-acde48001122", 
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
                     "config": null, 
@@ -14,26 +48,9 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
+                    "is_editable": true, 
                     "name": "concepts", 
                     "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "sortorder": null, 
-                    "visible": true
-                }, 
-                {
-                    "active": true, 
-                    "cardid": "8cc075cc-95eb-11e8-bb88-acde48001122", 
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
-                    "config": null, 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "helpenabled": false, 
-                    "helptext": null, 
-                    "helptitle": null, 
-                    "instructions": null, 
-                    "is_editable": false, 
-                    "name": "resource instance", 
-                    "nodegroup_id": "86323e02-95eb-11e8-aa72-acde48001122", 
                     "sortorder": null, 
                     "visible": true
                 }, 
@@ -48,7 +65,7 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
+                    "is_editable": true, 
                     "name": "geojson", 
                     "nodegroup_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
                     "sortorder": null, 
@@ -73,7 +90,7 @@
                 }, 
                 {
                     "active": true, 
-                    "cardid": "5d9d643d-95c4-11e8-848a-acde48001122", 
+                    "cardid": "8cc075cc-95eb-11e8-bb88-acde48001122", 
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
                     "config": null, 
                     "description": null, 
@@ -82,9 +99,26 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
-                    "name": "Dates", 
-                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
+                    "is_editable": true, 
+                    "name": "resource instance", 
+                    "nodegroup_id": "86323e02-95eb-11e8-aa72-acde48001122", 
+                    "sortorder": null, 
+                    "visible": true
+                }, 
+                {
+                    "active": true, 
+                    "cardid": "3bd30b02-95c3-11e8-8f15-acde48001122", 
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
+                    "config": null, 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "helpenabled": false, 
+                    "helptext": null, 
+                    "helptitle": null, 
+                    "instructions": null, 
+                    "is_editable": true, 
+                    "name": "domains", 
+                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
                     "sortorder": null, 
                     "visible": true
                 }, 
@@ -99,7 +133,7 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
+                    "is_editable": true, 
                     "name": "string", 
                     "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
                     "sortorder": null, 
@@ -116,7 +150,7 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
+                    "is_editable": true, 
                     "name": "number", 
                     "nodegroup_id": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
                     "sortorder": null, 
@@ -124,7 +158,7 @@
                 }, 
                 {
                     "active": true, 
-                    "cardid": "3bd30b02-95c3-11e8-8f15-acde48001122", 
+                    "cardid": "5d9d643d-95c4-11e8-848a-acde48001122", 
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
                     "config": null, 
                     "description": null, 
@@ -133,85 +167,53 @@
                     "helptext": null, 
                     "helptitle": null, 
                     "instructions": null, 
-                    "is_editable": false, 
-                    "name": "domains", 
-                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "sortorder": null, 
-                    "visible": true
-                }, 
-                {
-                    "active": true, 
-                    "cardid": "de301d4a-95c3-11e8-b74b-acde48001122", 
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
-                    "config": null, 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "helpenabled": false, 
-                    "helptext": null, 
-                    "helptitle": null, 
-                    "instructions": null, 
-                    "is_editable": false, 
-                    "name": "Images-Files", 
-                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
-                    "sortorder": null, 
-                    "visible": true
-                }, 
-                {
-                    "active": true, 
-                    "cardid": "62b84902-95ec-11e8-86d3-acde48001122", 
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea", 
-                    "config": null, 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "helpenabled": false, 
-                    "helptext": null, 
-                    "helptitle": null, 
-                    "instructions": null, 
-                    "is_editable": false, 
-                    "name": "referenced node", 
-                    "nodegroup_id": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "is_editable": true, 
+                    "name": "Dates", 
+                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
                     "sortorder": null, 
                     "visible": true
                 }
             ], 
             "cards_x_nodes_x_widgets": [
                 {
-                    "card_id": "3bd30b02-95c3-11e8-8f15-acde48001122", 
+                    "card_id": "c1bd336b-95bd-11e8-98d6-acde48001122", 
                     "config": {
                         "defaultValue": "", 
-                        "label": "select widget", 
-                        "placeholder": "Select an option"
+                        "label": "radio widget", 
+                        "options": [
+                            {
+                                "children": [], 
+                                "collector": "", 
+                                "conceptid": "cf2ed5bd-4d3c-4b34-8ba5-e4ee5ccc5b6f", 
+                                "id": "acadcbfc-6f85-4d59-821d-d0ef0c5babe7", 
+                                "sortorder": "", 
+                                "text": "Option 1"
+                            }, 
+                            {
+                                "children": [], 
+                                "collector": "", 
+                                "conceptid": "b6ea98d2-f203-426d-9913-eff060043146", 
+                                "id": "e2acecb9-0511-470b-b26b-8c0681b542f0", 
+                                "sortorder": "", 
+                                "text": "Option 2"
+                            }, 
+                            {
+                                "children": [], 
+                                "collector": "", 
+                                "conceptid": "bf2ca706-a122-4d75-a8d0-1b3c863ba38b", 
+                                "id": "fd845a76-6bcc-4b30-8aef-602a9071b6b5", 
+                                "sortorder": "", 
+                                "text": "Option 3"
+                            }
+                        ], 
+                        "placeholder": "Select an option", 
+                        "url": "/concepts/dropdown?conceptid=ef036008-7690-41cd-b476-ff4d96290e87"
                     }, 
-                    "id": "7e7170b5-95c3-11e8-b026-acde48001122", 
-                    "label": "select widget", 
-                    "node_id": "4ff64c70-95c3-11e8-8c25-acde48001122", 
+                    "id": "02502819-95be-11e8-9864-acde48001122", 
+                    "label": "radio widget", 
+                    "node_id": "c386a030-95bd-11e8-bff6-acde48001122", 
                     "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000015"
-                }, 
-                {
-                    "card_id": "c5e3afde-95c5-11e8-a63f-acde48001122", 
-                    "config": {
-                        "defaultValue": null, 
-                        "label": "switch widget", 
-                        "subtitle": "Click to switch"
-                    }, 
-                    "id": "135b04c5-95ee-11e8-b50b-acde48001122", 
-                    "label": "switch widget", 
-                    "node_id": "df6311f3-95ed-11e8-a289-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000003"
-                }, 
-                {
-                    "card_id": "62b84902-95ec-11e8-86d3-acde48001122", 
-                    "config": {
-                        "label": "node value select", 
-                        "placeholder": ""
-                    }, 
-                    "id": "924abbb0-95ee-11e8-98b8-acde48001122", 
-                    "label": "node value select", 
-                    "node_id": "64c57561-95ec-11e8-bb60-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "f5d6b190-bbf0-4dc9-b991-1debab8cb4a9"
+                    "widget_id": "10000000-0000-0000-0000-000000000009"
                 }, 
                 {
                     "card_id": "4e3c81e8-95bd-11e8-b2d6-acde48001122", 
@@ -227,6 +229,99 @@
                     "node_id": "4f553551-95bd-11e8-8b48-acde48001122", 
                     "sortorder": null, 
                     "widget_id": "10000000-0000-0000-0000-000000000001"
+                }, 
+                {
+                    "card_id": "3bd30b02-95c3-11e8-8f15-acde48001122", 
+                    "config": {
+                        "defaultValue": "", 
+                        "label": "radio widget", 
+                        "placeholder": "Select an option"
+                    }, 
+                    "id": "7e70c2f8-95c3-11e8-b739-acde48001122", 
+                    "label": "radio widget", 
+                    "node_id": "3dcfea07-95c3-11e8-b4da-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000017"
+                }, 
+                {
+                    "card_id": "c5e3afde-95c5-11e8-a63f-acde48001122", 
+                    "config": {
+                        "defaultValue": null, 
+                        "label": "switch widget", 
+                        "subtitle": "Click to switch"
+                    }, 
+                    "id": "135b04c5-95ee-11e8-b50b-acde48001122", 
+                    "label": "switch widget", 
+                    "node_id": "df6311f3-95ed-11e8-a289-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000003"
+                }, 
+                {
+                    "card_id": "5d9d643d-95c4-11e8-848a-acde48001122", 
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD", 
+                        "defaultValue": "", 
+                        "label": "datepicker widget", 
+                        "maxDate": false, 
+                        "minDate": false, 
+                        "placeholder": "Enter date", 
+                        "viewMode": "days"
+                    }, 
+                    "id": "85c91af0-95c4-11e8-93de-acde48001122", 
+                    "label": "datepicker widget", 
+                    "node_id": "5ebe6bc2-95c4-11e8-9dac-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                }, 
+                {
+                    "card_id": "c1bd336b-95bd-11e8-98d6-acde48001122", 
+                    "config": {
+                        "defaultValue": "", 
+                        "label": "select widget", 
+                        "options": [], 
+                        "placeholder": "Select an option"
+                    }, 
+                    "id": "0250d935-95be-11e8-8bb7-acde48001122", 
+                    "label": "select widget", 
+                    "node_id": "d3089738-95bd-11e8-aa23-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                }, 
+                {
+                    "card_id": "62b84902-95ec-11e8-86d3-acde48001122", 
+                    "config": {
+                        "label": "node value select", 
+                        "placeholder": ""
+                    }, 
+                    "id": "924abbb0-95ee-11e8-98b8-acde48001122", 
+                    "label": "node value select", 
+                    "node_id": "64c57561-95ec-11e8-bb60-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "f5d6b190-bbf0-4dc9-b991-1debab8cb4a9"
+                }, 
+                {
+                    "card_id": "8cc075cc-95eb-11e8-bb88-acde48001122", 
+                    "config": {
+                        "label": "resource instance select widget", 
+                        "placeholder": ""
+                    }, 
+                    "id": "b842e0de-95eb-11e8-8090-acde48001122", 
+                    "label": "resource instance select widget", 
+                    "node_id": "8e9e50e3-95eb-11e8-90fd-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }, 
+                {
+                    "card_id": "c5e3afde-95c5-11e8-a63f-acde48001122", 
+                    "config": {
+                        "defaultValue": null, 
+                        "label": "radio boolean widget"
+                    }, 
+                    "id": "ca562e82-95ed-11e8-ba8f-acde48001122", 
+                    "label": "radio boolean widget", 
+                    "node_id": "c7d493b3-95c5-11e8-b554-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000006"
                 }, 
                 {
                     "card_id": "35be1c14-95ed-11e8-8db0-acde48001122", 
@@ -272,6 +367,19 @@
                     "widget_id": "10000000-0000-0000-0000-000000000007"
                 }, 
                 {
+                    "card_id": "3bd30b02-95c3-11e8-8f15-acde48001122", 
+                    "config": {
+                        "defaultValue": "", 
+                        "label": "select widget", 
+                        "placeholder": "Select an option"
+                    }, 
+                    "id": "7e7170b5-95c3-11e8-b026-acde48001122", 
+                    "label": "select widget", 
+                    "node_id": "4ff64c70-95c3-11e8-8c25-acde48001122", 
+                    "sortorder": null, 
+                    "widget_id": "10000000-0000-0000-0000-000000000015"
+                }, 
+                {
                     "card_id": "4e3c81e8-95bd-11e8-b2d6-acde48001122", 
                     "config": {
                         "defaultValue": "", 
@@ -285,23 +393,6 @@
                     "node_id": "65f87f4c-95bd-11e8-b7a6-acde48001122", 
                     "sortorder": null, 
                     "widget_id": "10000000-0000-0000-0000-000000000005"
-                }, 
-                {
-                    "card_id": "5d9d643d-95c4-11e8-848a-acde48001122", 
-                    "config": {
-                        "dateFormat": "YYYY-MM-DD", 
-                        "defaultValue": "", 
-                        "label": "datepicker widget", 
-                        "maxDate": false, 
-                        "minDate": false, 
-                        "placeholder": "Enter date", 
-                        "viewMode": "days"
-                    }, 
-                    "id": "85c91af0-95c4-11e8-93de-acde48001122", 
-                    "label": "datepicker widget", 
-                    "node_id": "5ebe6bc2-95c4-11e8-9dac-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000004"
                 }, 
                 {
                     "card_id": "28c343d4-95c5-11e8-9fb6-acde48001122", 
@@ -324,45 +415,6 @@
                     "widget_id": "10000000-0000-0000-0000-000000000008"
                 }, 
                 {
-                    "card_id": "c1bd336b-95bd-11e8-98d6-acde48001122", 
-                    "config": {
-                        "defaultValue": "", 
-                        "label": "select widget", 
-                        "options": [], 
-                        "placeholder": "Select an option"
-                    }, 
-                    "id": "0250d935-95be-11e8-8bb7-acde48001122", 
-                    "label": "select widget", 
-                    "node_id": "d3089738-95bd-11e8-aa23-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
-                }, 
-                {
-                    "card_id": "3bd30b02-95c3-11e8-8f15-acde48001122", 
-                    "config": {
-                        "defaultValue": "", 
-                        "label": "radio widget", 
-                        "placeholder": "Select an option"
-                    }, 
-                    "id": "7e70c2f8-95c3-11e8-b739-acde48001122", 
-                    "label": "radio widget", 
-                    "node_id": "3dcfea07-95c3-11e8-b4da-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000017"
-                }, 
-                {
-                    "card_id": "8cc075cc-95eb-11e8-bb88-acde48001122", 
-                    "config": {
-                        "label": "resource instance select widget", 
-                        "placeholder": ""
-                    }, 
-                    "id": "b842e0de-95eb-11e8-8090-acde48001122", 
-                    "label": "resource instance select widget", 
-                    "node_id": "8e9e50e3-95eb-11e8-90fd-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
-                }, 
-                {
                     "card_id": "de301d4a-95c3-11e8-b74b-acde48001122", 
                     "config": {
                         "acceptedFiles": "", 
@@ -374,58 +426,6 @@
                     "node_id": "dfb05368-95c3-11e8-809b-acde48001122", 
                     "sortorder": null, 
                     "widget_id": "10000000-0000-0000-0000-000000000019"
-                }, 
-                {
-                    "card_id": "c5e3afde-95c5-11e8-a63f-acde48001122", 
-                    "config": {
-                        "defaultValue": null, 
-                        "label": "radio boolean widget"
-                    }, 
-                    "id": "ca562e82-95ed-11e8-ba8f-acde48001122", 
-                    "label": "radio boolean widget", 
-                    "node_id": "c7d493b3-95c5-11e8-b554-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000006"
-                }, 
-                {
-                    "card_id": "c1bd336b-95bd-11e8-98d6-acde48001122", 
-                    "config": {
-                        "defaultValue": "", 
-                        "label": "radio widget", 
-                        "options": [
-                            {
-                                "children": [], 
-                                "collector": "", 
-                                "conceptid": "cf2ed5bd-4d3c-4b34-8ba5-e4ee5ccc5b6f", 
-                                "id": "acadcbfc-6f85-4d59-821d-d0ef0c5babe7", 
-                                "sortorder": "", 
-                                "text": "Option 1"
-                            }, 
-                            {
-                                "children": [], 
-                                "collector": "", 
-                                "conceptid": "b6ea98d2-f203-426d-9913-eff060043146", 
-                                "id": "e2acecb9-0511-470b-b26b-8c0681b542f0", 
-                                "sortorder": "", 
-                                "text": "Option 2"
-                            }, 
-                            {
-                                "children": [], 
-                                "collector": "", 
-                                "conceptid": "bf2ca706-a122-4d75-a8d0-1b3c863ba38b", 
-                                "id": "fd845a76-6bcc-4b30-8aef-602a9071b6b5", 
-                                "sortorder": "", 
-                                "text": "Option 3"
-                            }
-                        ], 
-                        "placeholder": "Select an option", 
-                        "url": "/concepts/dropdown?conceptid=ef036008-7690-41cd-b476-ff4d96290e87"
-                    }, 
-                    "id": "02502819-95be-11e8-9864-acde48001122", 
-                    "label": "radio widget", 
-                    "node_id": "c386a030-95bd-11e8-bff6-acde48001122", 
-                    "sortorder": null, 
-                    "widget_id": "10000000-0000-0000-0000-000000000009"
                 }
             ], 
             "color": null, 
@@ -435,12 +435,21 @@
             "edges": [
                 {
                     "description": null, 
-                    "domainnode_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
-                    "edgeid": "38870a94-95ed-11e8-981e-acde48001122", 
+                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "edgeid": "2e3b070f-95ed-11e8-87e9-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "38870840-95ed-11e8-b2a9-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "2e3b04c0-95ed-11e8-b68c-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "edgeid": "46f4dc8c-95bd-11e8-a336-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "46f4da0c-95bd-11e8-8f87-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -448,26 +457,17 @@
                     "edgeid": "64c577ae-95ec-11e8-9a54-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "64c57561-95ec-11e8-bb60-acde48001122"
                 }, 
                 {
                     "description": null, 
-                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "d3e98e70-95c3-11e8-ba5b-acde48001122", 
+                    "domainnode_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "edgeid": "c386a28a-95bd-11e8-95b1-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "d3e98b97-95c3-11e8-a9b2-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
-                    "edgeid": "5ebe6e0a-95c4-11e8-8784-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "5ebe6bc2-95c4-11e8-9dac-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "c386a030-95bd-11e8-bff6-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -475,7 +475,7 @@
                     "edgeid": "ba84cebd-95bd-11e8-9e70-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "ba84cc78-95bd-11e8-b8f5-acde48001122"
                 }, 
                 {
@@ -484,89 +484,17 @@
                     "edgeid": "f08a32b8-95c4-11e8-adda-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "f08a3057-95c4-11e8-9761-acde48001122"
                 }, 
                 {
                     "description": null, 
-                    "domainnode_id": "be993840-95c3-11e8-b08a-acde48001122", 
-                    "edgeid": "dfb055ae-95c3-11e8-9c9e-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "dfb05368-95c3-11e8-809b-acde48001122"
-                }, 
-                {
-                    "description": null, 
                     "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "c0198251-95c5-11e8-936a-acde48001122", 
+                    "edgeid": "d3e98e70-95c3-11e8-ba5b-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "c0197fe6-95c5-11e8-8394-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "46f4dc8c-95bd-11e8-a336-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "46f4da0c-95bd-11e8-8f87-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "edgeid": "d3089a07-95bd-11e8-983f-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "d3089738-95bd-11e8-aa23-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "340c4a59-95c3-11e8-9681-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "340c4817-95c3-11e8-b9e1-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "2e3b070f-95ed-11e8-87e9-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "2e3b04c0-95ed-11e8-b68c-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "edgeid": "4f5537b3-95bd-11e8-8937-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "4f553551-95bd-11e8-8b48-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "edgeid": "3dcfed80-95c3-11e8-934a-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "3dcfea07-95c3-11e8-b4da-acde48001122"
-                }, 
-                {
-                    "description": null, 
-                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "5b0ecd33-95ec-11e8-8439-acde48001122", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "5b0ecaf0-95ec-11e8-859e-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "d3e98b97-95c3-11e8-a9b2-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -574,17 +502,44 @@
                     "edgeid": "c7d49a05-95c5-11e8-8de2-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "c7d493b3-95c5-11e8-b554-acde48001122"
                 }, 
                 {
                     "description": null, 
-                    "domainnode_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "edgeid": "4ff64eab-95c3-11e8-ae5f-acde48001122", 
+                    "domainnode_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
+                    "edgeid": "4f5537b3-95bd-11e8-8937-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "4ff64c70-95c3-11e8-8c25-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "4f553551-95bd-11e8-8b48-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "edgeid": "d3089a07-95bd-11e8-983f-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "d3089738-95bd-11e8-aa23-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "edgeid": "3dcfed80-95c3-11e8-934a-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "3dcfea07-95c3-11e8-b4da-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "edgeid": "340c4a59-95c3-11e8-9681-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "340c4817-95c3-11e8-b9e1-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -592,26 +547,44 @@
                     "edgeid": "65f881e1-95bd-11e8-8aad-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "65f87f4c-95bd-11e8-b7a6-acde48001122"
                 }, 
                 {
                     "description": null, 
-                    "domainnode_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "edgeid": "c386a28a-95bd-11e8-95b1-acde48001122", 
+                    "domainnode_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "edgeid": "4ff64eab-95c3-11e8-ae5f-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "c386a030-95bd-11e8-bff6-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "4ff64c70-95c3-11e8-8c25-acde48001122"
                 }, 
                 {
                     "description": null, 
                     "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "edgeid": "e7365085-95c4-11e8-b564-acde48001122", 
+                    "edgeid": "5b0ecd33-95ec-11e8-8439-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "e7364d1e-95c4-11e8-9e7c-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "5b0ecaf0-95ec-11e8-859e-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "edgeid": "c0198251-95c5-11e8-936a-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "c0197fe6-95c5-11e8-8394-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
+                    "edgeid": "38870a94-95ed-11e8-981e-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "38870840-95ed-11e8-b2a9-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -619,7 +592,7 @@
                     "edgeid": "be993a63-95c3-11e8-87cc-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "be993840-95c3-11e8-b08a-acde48001122"
                 }, 
                 {
@@ -628,17 +601,26 @@
                     "edgeid": "8e9e5328-95eb-11e8-ba3d-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "8e9e50e3-95eb-11e8-90fd-acde48001122"
                 }, 
                 {
                     "description": null, 
-                    "domainnode_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
-                    "edgeid": "df631435-95ed-11e8-a01d-acde48001122", 
+                    "domainnode_id": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "edgeid": "e7365085-95c4-11e8-b564-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
-                    "rangenode_id": "df6311f3-95ed-11e8-a289-acde48001122"
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "e7364d1e-95c4-11e8-9e7c-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "edgeid": "dfb055ae-95c3-11e8-9c9e-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "dfb05368-95c3-11e8-809b-acde48001122"
                 }, 
                 {
                     "description": null, 
@@ -646,8 +628,26 @@
                     "edgeid": "86324063-95eb-11e8-9e77-acde48001122", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
                     "name": null, 
-                    "ontologyproperty": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "rangenode_id": "86323e02-95eb-11e8-aa72-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
+                    "edgeid": "df631435-95ed-11e8-a01d-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "df6311f3-95ed-11e8-a289-acde48001122"
+                }, 
+                {
+                    "description": null, 
+                    "domainnode_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
+                    "edgeid": "5ebe6e0a-95c4-11e8-8784-acde48001122", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": null, 
+                    "ontologyproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "rangenode_id": "5ebe6bc2-95c4-11e8-9dac-acde48001122"
                 }
             ], 
             "forms": [
@@ -742,12 +742,12 @@
                     }, 
                     "function_id": "60000000-0000-0000-0000-000000000001", 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "id": "117306dc-95f3-11e8-8416-acde48001122"
+                    "id": "089af16e-99c4-11e8-b02e-aae9fe8789ac"
                 }
             ], 
             "graphid": "330802c5-95bd-11e8-b7ac-acde48001122", 
             "iconclass": "", 
-            "is_editable": false, 
+            "is_editable": true, 
             "isactive": true, 
             "isresource": true, 
             "jsonldcontext": null, 
@@ -756,7 +756,7 @@
                 {
                     "cardinality": "", 
                     "legacygroupid": null, 
-                    "nodegroupid": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "nodegroupid": "46f4da0c-95bd-11e8-8f87-acde48001122", 
                     "parentnodegroup_id": null
                 }, 
                 {
@@ -774,13 +774,13 @@
                 {
                     "cardinality": "", 
                     "legacygroupid": null, 
-                    "nodegroupid": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "nodegroupid": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
                     "parentnodegroup_id": null
                 }, 
                 {
                     "cardinality": "", 
                     "legacygroupid": null, 
-                    "nodegroupid": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "nodegroupid": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
                     "parentnodegroup_id": null
                 }, 
                 {
@@ -792,29 +792,209 @@
                 {
                     "cardinality": "", 
                     "legacygroupid": null, 
+                    "nodegroupid": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "parentnodegroup_id": null
+                }, 
+                {
+                    "cardinality": "", 
+                    "legacygroupid": null, 
+                    "nodegroupid": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "parentnodegroup_id": null
+                }, 
+                {
+                    "cardinality": "", 
+                    "legacygroupid": null, 
                     "nodegroupid": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
                     "parentnodegroup_id": null
                 }, 
                 {
                     "cardinality": "", 
                     "legacygroupid": null, 
-                    "nodegroupid": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "parentnodegroup_id": null
-                }, 
-                {
-                    "cardinality": "", 
-                    "legacygroupid": null, 
-                    "nodegroupid": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
-                    "parentnodegroup_id": null
-                }, 
-                {
-                    "cardinality": "", 
-                    "legacygroupid": null, 
-                    "nodegroupid": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
+                    "nodegroupid": "340c4817-95c3-11e8-b9e1-acde48001122", 
                     "parentnodegroup_id": null
                 }
             ], 
             "nodes": [
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": "", 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": true, 
+                    "name": "4.3 Testing Model", 
+                    "nodegroup_id": null, 
+                    "nodeid": "3307ff9c-95bd-11e8-950b-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "geojson", 
+                    "nodegroup_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
+                    "nodeid": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "boolean", 
+                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
+                    "nodeid": "c0197fe6-95c5-11e8-8394-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "date", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "Date Widget 1", 
+                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
+                    "nodeid": "5ebe6bc2-95c4-11e8-9dac-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "string", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "rich text widget", 
+                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
+                    "nodeid": "65f87f4c-95bd-11e8-b7a6-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "number", 
+                    "nodegroup_id": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
+                    "nodeid": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "file-list", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "File Upload Widget", 
+                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "nodeid": "dfb05368-95c3-11e8-809b-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": {
+                        "falseLabel": "No", 
+                        "options": [], 
+                        "trueLabel": "Yes"
+                    }, 
+                    "datatype": "boolean", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "radio boolean widget", 
+                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
+                    "nodeid": "c7d493b3-95c5-11e8-b554-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "string", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "text widget", 
+                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
+                    "nodeid": "4f553551-95bd-11e8-8b48-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "concepts", 
+                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "nodeid": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "domains", 
+                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "nodeid": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
                 {
                     "config": {
                         "addToMap": false, 
@@ -852,224 +1032,8 @@
                     "name": "geojson  map widget", 
                     "nodegroup_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
                     "nodeid": "38870840-95ed-11e8-b2a9-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "boolean", 
-                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
-                    "nodeid": "c0197fe6-95c5-11e8-8394-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "date", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "Date Widget 1", 
-                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
-                    "nodeid": "5ebe6bc2-95c4-11e8-9dac-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "domains", 
-                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "nodeid": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": {
-                        "rdmCollection": "ef036008-7690-41cd-b476-ff4d96290e87"
-                    }, 
-                    "datatype": "concept", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "radio widget", 
-                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "nodeid": "c386a030-95bd-11e8-bff6-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "number", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "number widget", 
-                    "nodegroup_id": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
-                    "nodeid": "f08a3057-95c4-11e8-9761-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "Images-Files", 
-                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
-                    "nodeid": "be993840-95c3-11e8-b08a-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": {
-                        "falseLabel": "No", 
-                        "options": [], 
-                        "trueLabel": "Yes"
-                    }, 
-                    "datatype": "boolean", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "radio boolean widget", 
-                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
-                    "nodeid": "c7d493b3-95c5-11e8-b554-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": "", 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": true, 
-                    "name": "4.3 Testing Model", 
-                    "nodegroup_id": null, 
-                    "nodeid": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": "", 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "concepts", 
-                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "nodeid": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": {
-                        "options": [
-                            {
-                                "id": "3d4ad50d-d855-4e40-8e78-911922977ba8", 
-                                "selected": false, 
-                                "text": "option 1"
-                            }, 
-                            {
-                                "id": "b06e95e2-9baa-4293-ba76-80c1b6ed06cd", 
-                                "selected": false, 
-                                "text": "option 2"
-                            }, 
-                            {
-                                "id": "5e523392-c7a9-4a1f-a080-eac3df7ac330", 
-                                "selected": false, 
-                                "text": "option 3"
-                            }
-                        ]
-                    }, 
-                    "datatype": "domain-value", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "radio widget", 
-                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
-                    "nodeid": "3dcfea07-95c3-11e8-b4da-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "geojson", 
-                    "nodegroup_id": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
-                    "nodeid": "2e3b04c0-95ed-11e8-b68c-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "string", 
-                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "nodeid": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }, 
                 {
@@ -1102,8 +1066,126 @@
                     "name": "select widget", 
                     "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
                     "nodeid": "4ff64c70-95c3-11e8-8c25-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": {
+                        "options": [
+                            {
+                                "id": "3d4ad50d-d855-4e40-8e78-911922977ba8", 
+                                "selected": false, 
+                                "text": "option 1"
+                            }, 
+                            {
+                                "id": "b06e95e2-9baa-4293-ba76-80c1b6ed06cd", 
+                                "selected": false, 
+                                "text": "option 2"
+                            }, 
+                            {
+                                "id": "5e523392-c7a9-4a1f-a080-eac3df7ac330", 
+                                "selected": false, 
+                                "text": "option 3"
+                            }
+                        ]
+                    }, 
+                    "datatype": "domain-value", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "radio widget", 
+                    "nodegroup_id": "340c4817-95c3-11e8-b9e1-acde48001122", 
+                    "nodeid": "3dcfea07-95c3-11e8-b4da-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "referenced node", 
+                    "nodegroup_id": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "nodeid": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "number", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "number widget", 
+                    "nodegroup_id": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
+                    "nodeid": "f08a3057-95c4-11e8-9761-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "string", 
+                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
+                    "nodeid": "46f4da0c-95bd-11e8-8f87-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": {
+                        "rdmCollection": "ef036008-7690-41cd-b476-ff4d96290e87"
+                    }, 
+                    "datatype": "concept", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "select widget", 
+                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "nodeid": "d3089738-95bd-11e8-aa23-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": {
+                        "rdmCollection": "ef036008-7690-41cd-b476-ff4d96290e87"
+                    }, 
+                    "datatype": "concept", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "radio widget", 
+                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
+                    "nodeid": "c386a030-95bd-11e8-bff6-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }, 
                 {
@@ -1121,42 +1203,8 @@
                     "name": "referenced node widget", 
                     "nodegroup_id": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
                     "nodeid": "64c57561-95ec-11e8-bb60-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "string", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "text widget", 
-                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "nodeid": "4f553551-95bd-11e8-8b48-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": {
-                        "rdmCollection": "ef036008-7690-41cd-b476-ff4d96290e87"
-                    }, 
-                    "datatype": "concept", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "select widget", 
-                    "nodegroup_id": "ba84cc78-95bd-11e8-b8f5-acde48001122", 
-                    "nodeid": "d3089738-95bd-11e8-aa23-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }, 
                 {
@@ -1168,11 +1216,46 @@
                     "isrequired": false, 
                     "issearchable": true, 
                     "istopnode": false, 
-                    "name": "Dates", 
-                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
-                    "nodeid": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "name": "Images-Files", 
+                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "nodeid": "be993840-95c3-11e8-b08a-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": null, 
+                    "datatype": "semantic", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": true, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "resource instance", 
+                    "nodegroup_id": "86323e02-95eb-11e8-aa72-acde48001122", 
+                    "nodeid": "86323e02-95eb-11e8-aa72-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
+                    "sortorder": 0
+                }, 
+                {
+                    "config": {
+                        "falseLabel": "No", 
+                        "trueLabel": "Yes"
+                    }, 
+                    "datatype": "boolean", 
+                    "description": null, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "is_collector": false, 
+                    "isrequired": false, 
+                    "issearchable": true, 
+                    "istopnode": false, 
+                    "name": "switch widget", 
+                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
+                    "nodeid": "df6311f3-95ed-11e8-a289-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }, 
                 {
@@ -1191,8 +1274,8 @@
                     "name": "resource instance select widget", 
                     "nodegroup_id": "86323e02-95eb-11e8-aa72-acde48001122", 
                     "nodeid": "8e9e50e3-95eb-11e8-90fd-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }, 
                 {
@@ -1204,342 +1287,20 @@
                     "isrequired": false, 
                     "issearchable": true, 
                     "istopnode": false, 
-                    "name": "number", 
-                    "nodegroup_id": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
-                    "nodeid": "e7364d1e-95c4-11e8-9e7c-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "string", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "rich text widget", 
-                    "nodegroup_id": "46f4da0c-95bd-11e8-8f87-acde48001122", 
-                    "nodeid": "65f87f4c-95bd-11e8-b7a6-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "file-list", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "File Upload Widget", 
-                    "nodegroup_id": "be993840-95c3-11e8-b08a-acde48001122", 
-                    "nodeid": "dfb05368-95c3-11e8-809b-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "resource instance", 
-                    "nodegroup_id": "86323e02-95eb-11e8-aa72-acde48001122", 
-                    "nodeid": "86323e02-95eb-11e8-aa72-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": {
-                        "falseLabel": "No", 
-                        "trueLabel": "Yes"
-                    }, 
-                    "datatype": "boolean", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": false, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "switch widget", 
-                    "nodegroup_id": "c0197fe6-95c5-11e8-8394-acde48001122", 
-                    "nodeid": "df6311f3-95ed-11e8-a289-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
-                    "sortorder": 0
-                }, 
-                {
-                    "config": null, 
-                    "datatype": "semantic", 
-                    "description": null, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "is_collector": true, 
-                    "isrequired": false, 
-                    "issearchable": true, 
-                    "istopnode": false, 
-                    "name": "referenced node", 
-                    "nodegroup_id": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
-                    "nodeid": "5b0ecaf0-95ec-11e8-859e-acde48001122", 
-                    "ontologyclass": null, 
-                    "parentproperty": null, 
+                    "name": "Dates", 
+                    "nodegroup_id": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
+                    "nodeid": "d3e98b97-95c3-11e8-a9b2-acde48001122", 
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
+                    "parentproperty": "http://www.ics.forth.gr/isl/CRMdig/L54i_is_same-as", 
                     "sortorder": 0
                 }
             ], 
-            "ontology_id": null, 
-            "relatable_resource_model_ids": [], 
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd", 
+            "relatable_resource_model_ids": [
+                "330802c5-95bd-11e8-b7ac-acde48001122", 
+                "330802c5-95bd-11e8-b7ac-acde48001122"
+            ], 
             "reports": [
-                {
-                    "active": true, 
-                    "config": null, 
-                    "formsconfig": {
-                        "ae80d7e3-9689-11e8-98f3-aae9fe8789ac": {
-                            "active": true, 
-                            "cards": {
-                                "28c343d4-95c5-11e8-9fb6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "number", 
-                                    "nodes": {
-                                        "f08a3057-95c4-11e8-9761-acde48001122": {
-                                            "label": "number widget"
-                                        }
-                                    }
-                                }, 
-                                "35be1c14-95ed-11e8-8db0-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "geojson", 
-                                    "nodes": {
-                                        "38870840-95ed-11e8-b2a9-acde48001122": {
-                                            "label": "geojson map widget"
-                                        }
-                                    }
-                                }, 
-                                "3bd30b02-95c3-11e8-8f15-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "domains", 
-                                    "nodes": {
-                                        "3dcfea07-95c3-11e8-b4da-acde48001122": {
-                                            "label": "radio widget"
-                                        }, 
-                                        "4ff64c70-95c3-11e8-8c25-acde48001122": {
-                                            "label": "select widget"
-                                        }
-                                    }
-                                }, 
-                                "4e3c81e8-95bd-11e8-b2d6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "string", 
-                                    "nodes": {
-                                        "4f553551-95bd-11e8-8b48-acde48001122": {
-                                            "label": "text widget"
-                                        }, 
-                                        "65f87f4c-95bd-11e8-b7a6-acde48001122": {
-                                            "label": "rich text widget"
-                                        }
-                                    }
-                                }, 
-                                "5d9d643d-95c4-11e8-848a-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "Dates", 
-                                    "nodes": {
-                                        "5ebe6bc2-95c4-11e8-9dac-acde48001122": {
-                                            "label": "datepicker widget"
-                                        }
-                                    }
-                                }, 
-                                "62b84902-95ec-11e8-86d3-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "referenced node", 
-                                    "nodes": {
-                                        "64c57561-95ec-11e8-bb60-acde48001122": {
-                                            "label": "node value select"
-                                        }
-                                    }
-                                }, 
-                                "8cc075cc-95eb-11e8-bb88-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "resource instance", 
-                                    "nodes": {
-                                        "8e9e50e3-95eb-11e8-90fd-acde48001122": {
-                                            "label": "resource instance select widget"
-                                        }
-                                    }
-                                }, 
-                                "c1bd336b-95bd-11e8-98d6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "concepts", 
-                                    "nodes": {
-                                        "c386a030-95bd-11e8-bff6-acde48001122": {
-                                            "label": "radio widget"
-                                        }, 
-                                        "d3089738-95bd-11e8-aa23-acde48001122": {
-                                            "label": "select widget"
-                                        }
-                                    }
-                                }, 
-                                "c5e3afde-95c5-11e8-a63f-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "boolean", 
-                                    "nodes": {
-                                        "c7d493b3-95c5-11e8-b554-acde48001122": {
-                                            "label": "radio boolean widget"
-                                        }, 
-                                        "df6311f3-95ed-11e8-a289-acde48001122": {
-                                            "label": "switch widget"
-                                        }
-                                    }
-                                }, 
-                                "de301d4a-95c3-11e8-b74b-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "Images-Files", 
-                                    "nodes": {
-                                        "dfb05368-95c3-11e8-809b-acde48001122": {
-                                            "label": "File Upload Widget"
-                                        }
-                                    }
-                                }
-                            }, 
-                            "label": "New Menu", 
-                            "sortorder": 0
-                        }
-                    }, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": "New Report", 
-                    "reportid": "d29f4e6b-9689-11e8-b138-aae9fe8789ac", 
-                    "template_id": "50000000-0000-0000-0000-000000000001"
-                }, 
-                {
-                    "active": false, 
-                    "config": {
-                        "nodes": [
-                            "dfb05368-95c3-11e8-809b-acde48001122"
-                        ]
-                    }, 
-                    "formsconfig": {
-                        "ae80d7e3-9689-11e8-98f3-aae9fe8789ac": {
-                            "active": true, 
-                            "cards": {
-                                "28c343d4-95c5-11e8-9fb6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "number", 
-                                    "nodes": {
-                                        "f08a3057-95c4-11e8-9761-acde48001122": {
-                                            "label": "number widget"
-                                        }
-                                    }
-                                }, 
-                                "35be1c14-95ed-11e8-8db0-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "geojson", 
-                                    "nodes": {
-                                        "38870840-95ed-11e8-b2a9-acde48001122": {
-                                            "label": "geojson map widget"
-                                        }
-                                    }
-                                }, 
-                                "3bd30b02-95c3-11e8-8f15-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "domains", 
-                                    "nodes": {
-                                        "3dcfea07-95c3-11e8-b4da-acde48001122": {
-                                            "label": "radio widget"
-                                        }, 
-                                        "4ff64c70-95c3-11e8-8c25-acde48001122": {
-                                            "label": "select widget"
-                                        }
-                                    }
-                                }, 
-                                "4e3c81e8-95bd-11e8-b2d6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "string", 
-                                    "nodes": {
-                                        "4f553551-95bd-11e8-8b48-acde48001122": {
-                                            "label": "text widget"
-                                        }, 
-                                        "65f87f4c-95bd-11e8-b7a6-acde48001122": {
-                                            "label": "rich text widget"
-                                        }
-                                    }
-                                }, 
-                                "5d9d643d-95c4-11e8-848a-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "Dates", 
-                                    "nodes": {
-                                        "5ebe6bc2-95c4-11e8-9dac-acde48001122": {
-                                            "label": "datepicker widget"
-                                        }
-                                    }
-                                }, 
-                                "62b84902-95ec-11e8-86d3-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "referenced node", 
-                                    "nodes": {
-                                        "64c57561-95ec-11e8-bb60-acde48001122": {
-                                            "label": "node value select"
-                                        }
-                                    }
-                                }, 
-                                "8cc075cc-95eb-11e8-bb88-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "resource instance", 
-                                    "nodes": {
-                                        "8e9e50e3-95eb-11e8-90fd-acde48001122": {
-                                            "label": "resource instance select widget"
-                                        }
-                                    }
-                                }, 
-                                "c1bd336b-95bd-11e8-98d6-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "concepts", 
-                                    "nodes": {
-                                        "c386a030-95bd-11e8-bff6-acde48001122": {
-                                            "label": "radio widget"
-                                        }, 
-                                        "d3089738-95bd-11e8-aa23-acde48001122": {
-                                            "label": "select widget"
-                                        }
-                                    }
-                                }, 
-                                "c5e3afde-95c5-11e8-a63f-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "boolean", 
-                                    "nodes": {
-                                        "c7d493b3-95c5-11e8-b554-acde48001122": {
-                                            "label": "radio boolean widget"
-                                        }, 
-                                        "df6311f3-95ed-11e8-a289-acde48001122": {
-                                            "label": "switch widget"
-                                        }
-                                    }
-                                }, 
-                                "de301d4a-95c3-11e8-b74b-acde48001122": {
-                                    "cards": {}, 
-                                    "label": "Images-Files", 
-                                    "nodes": {
-                                        "dfb05368-95c3-11e8-809b-acde48001122": {
-                                            "label": "File Upload Widget"
-                                        }
-                                    }
-                                }
-                            }, 
-                            "label": "New Menu", 
-                            "sortorder": 0
-                        }
-                    }, 
-                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": "New Report", 
-                    "reportid": "6b5fe800-968a-11e8-88b8-aae9fe8789ac", 
-                    "template_id": "50000000-0000-0000-0000-000000000003"
-                }, 
                 {
                     "active": false, 
                     "config": {
@@ -1688,9 +1449,251 @@
                         }
                     }, 
                     "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
-                    "name": "New Report", 
+                    "name": "Map Header Report", 
                     "reportid": "6df9d8bd-968a-11e8-87f2-aae9fe8789ac", 
                     "template_id": "50000000-0000-0000-0000-000000000002"
+                }, 
+                {
+                    "active": true, 
+                    "config": null, 
+                    "formsconfig": {
+                        "ae80d7e3-9689-11e8-98f3-aae9fe8789ac": {
+                            "active": true, 
+                            "cards": {
+                                "28c343d4-95c5-11e8-9fb6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "number", 
+                                    "nodes": {
+                                        "f08a3057-95c4-11e8-9761-acde48001122": {
+                                            "label": "number widget"
+                                        }
+                                    }
+                                }, 
+                                "35be1c14-95ed-11e8-8db0-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "geojson", 
+                                    "nodes": {
+                                        "38870840-95ed-11e8-b2a9-acde48001122": {
+                                            "label": "geojson map widget"
+                                        }
+                                    }
+                                }, 
+                                "3bd30b02-95c3-11e8-8f15-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "domains", 
+                                    "nodes": {
+                                        "3dcfea07-95c3-11e8-b4da-acde48001122": {
+                                            "label": "radio widget"
+                                        }, 
+                                        "4ff64c70-95c3-11e8-8c25-acde48001122": {
+                                            "label": "select widget"
+                                        }
+                                    }
+                                }, 
+                                "4e3c81e8-95bd-11e8-b2d6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "string", 
+                                    "nodes": {
+                                        "4f553551-95bd-11e8-8b48-acde48001122": {
+                                            "label": "text widget"
+                                        }, 
+                                        "65f87f4c-95bd-11e8-b7a6-acde48001122": {
+                                            "label": "rich text widget"
+                                        }
+                                    }
+                                }, 
+                                "5d9d643d-95c4-11e8-848a-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "Dates", 
+                                    "nodes": {
+                                        "5ebe6bc2-95c4-11e8-9dac-acde48001122": {
+                                            "label": "datepicker widget"
+                                        }
+                                    }
+                                }, 
+                                "62b84902-95ec-11e8-86d3-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "referenced node", 
+                                    "nodes": {
+                                        "64c57561-95ec-11e8-bb60-acde48001122": {
+                                            "label": "node value select"
+                                        }
+                                    }
+                                }, 
+                                "8cc075cc-95eb-11e8-bb88-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "resource instance", 
+                                    "nodes": {
+                                        "8e9e50e3-95eb-11e8-90fd-acde48001122": {
+                                            "label": "resource instance select widget"
+                                        }
+                                    }
+                                }, 
+                                "c1bd336b-95bd-11e8-98d6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "concepts", 
+                                    "nodes": {
+                                        "c386a030-95bd-11e8-bff6-acde48001122": {
+                                            "label": "radio widget"
+                                        }, 
+                                        "d3089738-95bd-11e8-aa23-acde48001122": {
+                                            "label": "select widget"
+                                        }
+                                    }
+                                }, 
+                                "c5e3afde-95c5-11e8-a63f-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "boolean", 
+                                    "nodes": {
+                                        "c7d493b3-95c5-11e8-b554-acde48001122": {
+                                            "label": "radio boolean widget"
+                                        }, 
+                                        "df6311f3-95ed-11e8-a289-acde48001122": {
+                                            "label": "switch widget"
+                                        }
+                                    }
+                                }, 
+                                "de301d4a-95c3-11e8-b74b-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "Images-Files", 
+                                    "nodes": {
+                                        "dfb05368-95c3-11e8-809b-acde48001122": {
+                                            "label": "File Upload Widget"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "label": "New Menu", 
+                            "sortorder": 0
+                        }
+                    }, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": "No Header Report", 
+                    "reportid": "d29f4e6b-9689-11e8-b138-aae9fe8789ac", 
+                    "template_id": "50000000-0000-0000-0000-000000000001"
+                }, 
+                {
+                    "active": false, 
+                    "config": {
+                        "nodes": [
+                            "dfb05368-95c3-11e8-809b-acde48001122"
+                        ]
+                    }, 
+                    "formsconfig": {
+                        "ae80d7e3-9689-11e8-98f3-aae9fe8789ac": {
+                            "active": true, 
+                            "cards": {
+                                "28c343d4-95c5-11e8-9fb6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "number", 
+                                    "nodes": {
+                                        "f08a3057-95c4-11e8-9761-acde48001122": {
+                                            "label": "number widget"
+                                        }
+                                    }
+                                }, 
+                                "35be1c14-95ed-11e8-8db0-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "geojson", 
+                                    "nodes": {
+                                        "38870840-95ed-11e8-b2a9-acde48001122": {
+                                            "label": "geojson map widget"
+                                        }
+                                    }
+                                }, 
+                                "3bd30b02-95c3-11e8-8f15-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "domains", 
+                                    "nodes": {
+                                        "3dcfea07-95c3-11e8-b4da-acde48001122": {
+                                            "label": "radio widget"
+                                        }, 
+                                        "4ff64c70-95c3-11e8-8c25-acde48001122": {
+                                            "label": "select widget"
+                                        }
+                                    }
+                                }, 
+                                "4e3c81e8-95bd-11e8-b2d6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "string", 
+                                    "nodes": {
+                                        "4f553551-95bd-11e8-8b48-acde48001122": {
+                                            "label": "text widget"
+                                        }, 
+                                        "65f87f4c-95bd-11e8-b7a6-acde48001122": {
+                                            "label": "rich text widget"
+                                        }
+                                    }
+                                }, 
+                                "5d9d643d-95c4-11e8-848a-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "Dates", 
+                                    "nodes": {
+                                        "5ebe6bc2-95c4-11e8-9dac-acde48001122": {
+                                            "label": "datepicker widget"
+                                        }
+                                    }
+                                }, 
+                                "62b84902-95ec-11e8-86d3-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "referenced node", 
+                                    "nodes": {
+                                        "64c57561-95ec-11e8-bb60-acde48001122": {
+                                            "label": "node value select"
+                                        }
+                                    }
+                                }, 
+                                "8cc075cc-95eb-11e8-bb88-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "resource instance", 
+                                    "nodes": {
+                                        "8e9e50e3-95eb-11e8-90fd-acde48001122": {
+                                            "label": "resource instance select widget"
+                                        }
+                                    }
+                                }, 
+                                "c1bd336b-95bd-11e8-98d6-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "concepts", 
+                                    "nodes": {
+                                        "c386a030-95bd-11e8-bff6-acde48001122": {
+                                            "label": "radio widget"
+                                        }, 
+                                        "d3089738-95bd-11e8-aa23-acde48001122": {
+                                            "label": "select widget"
+                                        }
+                                    }
+                                }, 
+                                "c5e3afde-95c5-11e8-a63f-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "boolean", 
+                                    "nodes": {
+                                        "c7d493b3-95c5-11e8-b554-acde48001122": {
+                                            "label": "radio boolean widget"
+                                        }, 
+                                        "df6311f3-95ed-11e8-a289-acde48001122": {
+                                            "label": "switch widget"
+                                        }
+                                    }
+                                }, 
+                                "de301d4a-95c3-11e8-b74b-acde48001122": {
+                                    "cards": {}, 
+                                    "label": "Images-Files", 
+                                    "nodes": {
+                                        "dfb05368-95c3-11e8-809b-acde48001122": {
+                                            "label": "File Upload Widget"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "label": "New Menu", 
+                            "sortorder": 0
+                        }
+                    }, 
+                    "graph_id": "330802c5-95bd-11e8-b7ac-acde48001122", 
+                    "name": "Image Header Report", 
+                    "reportid": "6b5fe800-968a-11e8-88b8-aae9fe8789ac", 
+                    "template_id": "50000000-0000-0000-0000-000000000003"
                 }
             ], 
             "resource_2_resource_constraints": [], 
@@ -1706,7 +1709,7 @@
                 "name": "4.3 Testing Model", 
                 "nodegroup_id": null, 
                 "nodeid": "3307ff9c-95bd-11e8-950b-acde48001122", 
-                "ontologyclass": null, 
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity", 
                 "sortorder": 0
             }, 
             "subtitle": "Testing model created for 4.3 (and in 4.3 pre-release) for testing.  Contains all datatypes outlined in the testing script.", 
@@ -1715,7 +1718,7 @@
     ], 
     "metadata": {
         "db": "PostgreSQL 9.6.9 on x86_64-apple-darwin14.5.0, compiled by Apple LLVM version 7.0.0 (clang-700.1.76), 64-bit", 
-        "git hash": "82c5a2b32 2018-07-31 17:18:01 -0700", 
+        "git hash": "6671f6b21 2018-08-03 10:16:09 -0700", 
         "os": "Darwin", 
         "os version": "17.7.0"
     }
