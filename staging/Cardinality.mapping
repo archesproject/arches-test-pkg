@@ -1,0 +1,48 @@
+{
+    "resource_model_id": "2f7f8e40-adbc-11e6-ac7f-14109fd34195",
+    "resource_model_name": "Cardinality Test Model",
+    "nodes": [
+        {
+            "arches_nodeid": "6f985347-adbc-11e6-a0fc-14109fd34195",
+            "arches_node_name": "String Input",
+            "file_field_name": "String Input",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6d7baf1c-adbc-11e6-9ee6-14109fd34195",
+            "arches_node_name": "String Input",
+            "file_field_name": "String Input",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73726a75-adbc-11e6-a29a-14109fd34195",
+            "arches_node_name": "String Node",
+            "file_field_name": "String Node",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6e59e094-adbc-11e6-8531-14109fd34195",
+            "arches_node_name": "String Node",
+            "file_field_name": "String Node",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72048cb3-adbc-11e6-9ccf-14109fd34195",
+            "arches_node_name": "String Node",
+            "file_field_name": "String Node",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "70eb53f8-adbc-11e6-be8c-14109fd34195",
+            "arches_node_name": "String Node",
+            "file_field_name": "String Node",
+            "data_type": "string",
+            "export": true
+        }
+    ]
+}
